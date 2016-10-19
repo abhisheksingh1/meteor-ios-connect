@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  meteor
+//  meteor-ios-connect
 //
-//  Created by Abhishek on 19/10/16.
-//  Copyright © 2016 Abhishek. All rights reserved.
+//  Created by Chandra Prakash on 19/10/16.
+//  Copyright © 2016 cprakashagr. All rights reserved.
 //
 
 import UIKit

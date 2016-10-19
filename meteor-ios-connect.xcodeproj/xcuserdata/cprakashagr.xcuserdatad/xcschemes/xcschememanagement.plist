@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>meteor.xcscheme</key>
+		<key>meteor-ios-connect.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>466AEFB91DB76F33006A61BB</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>466AEFD01DB76F33006A61BB</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>466AEFDB1DB76F33006A61BB</key>
+		<key>3FF40AA41DB7D25A0082554A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
